@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AnimationLazyColumn</string>
+
+    <string-array name="topics">
+        <item>Jetpack Compose </item>
+        <item>Jetpack Compose Updates</item>
+        <item>Make it Easy Latest Update</item>
+    </string-array>
+    <string name="lorem_ipsum">In this tutorial, you\'ll build a simple UI component with declarative functions. You won\'t be editing any XML layouts or using the Layout Editor. Instead, you will call composable functions to define what elements you want, and the Compose compiler will do the rest</string>
+
+</resources>
